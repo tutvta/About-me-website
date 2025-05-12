@@ -2,7 +2,9 @@ import React from 'react';
 
 function Hobbies() {
   return (
-    <div></div>
+    <div classname="Hobbies">
+      Hobbies
+    </div>
   )
 }
 
