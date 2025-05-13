@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hobbies() {
   return (
-    <div class="p-4">
+    <div class="p-4 bg-linear-to-br from-[#FFBC7E] to-[#7EC1FF]">
       <h1 class="flex text-center justify-center flex-col p-8 text-2xl font-bold py-8">Hobbies and interests</h1>
       <h2 class="py-2">Gaming:</h2>
       <p>- osu!</p>

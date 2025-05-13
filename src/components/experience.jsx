@@ -2,7 +2,7 @@ import React from 'react';
 
 function Experience() {
   return (
-    <div class="p-4">
+    <div class="p-4 h-dvh bg-linear-to-br from-[#FFBC7E] to-[#7EC1FF]">
       <h1 class="flex text-center justify-center flex-col p-8 text-2xl font-bold py-8">Experience</h1>
       <p>
         The only experience I have is from COMP1531 creating the backend for a quiz web app. Through that I have 

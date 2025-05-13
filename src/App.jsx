@@ -23,7 +23,7 @@ function App() {
   }
   
   return (
-    <div classname="App">
+    <div class="">
       <NavBar />
       {page}
     </div>
