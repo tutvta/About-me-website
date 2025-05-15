@@ -1,7 +1,7 @@
 import React from "react";
 import githubLogo from "../assets/github-mark.svg"
 import instagramLogo from "../assets/icons8-instagram.svg"
-import viteLogo from "../../public/vite.svg"
+import viteLogo from "/vite.svg"
 import reactLogo from "../assets/react.svg"
 import tailwindLogo from "../assets/tailwindcss-mark.d52e9897.svg"
 
@@ -11,12 +11,12 @@ function Home() {
       <h1 class="flex text-center justify-center flex-col p-8 text-2xl font-bold py-8">Home</h1>
       <div class="flex justify-between">
         <div class="pl-20 flex flex-col">
-          <h1 class="pb-4">Socials:</h1>
-          <a href="https://github.com/tutvta">
-            <img src={githubLogo} alt="github link" target="_blank"/>
+          <h1 class="pb-4">Links:</h1>
+          <a href="https://github.com/tutvta" target="_blank">
+            <img src={githubLogo} alt="github link"/>
           </a>
-          <a href="https://www.instagram.com/yellofelloxd/" class="pt-4">
-            <img src={instagramLogo} alt="instagram link" target="_blank"/>
+          <a href="https://www.instagram.com/yellofelloxd/" class="pt-4" target="_blank">
+            <img src={instagramLogo} alt="instagram link"/>
           </a>
         </div>
         <p class="ml-50 mr-50">
