@@ -49,7 +49,7 @@ function Hobbies() {
               <li>Not too big of a fan of action</li>
             </ul>
           </div>
-          <div class="pr-50 flex flex-row gap-4">
+          <div class="pr-50 flex flex-row gap-10">
             <img src={fruitsBasketS3} alt="Fruits Basket Season 3" height="271" width="200"/>
             <img src={bunnyGirlSenpaiMoviePoster} alt="Bunny Girl Senpai Movie" height="271" width="200"/>
           </div>
