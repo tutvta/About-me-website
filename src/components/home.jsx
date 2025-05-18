@@ -7,7 +7,7 @@ function Home() {
     <div class="p-4 h-dvh bg-linear-to-br from-[#FFBC7E] to-[#7EC1FF]">
       <h1 class="flex text-center justify-center flex-col p-8 text-2xl font-bold py-8">Home</h1>
       <div class="flex flex-col">
-        <p class="ml-50 mr-50">
+        <p class="ml-10 mr-10 md:ml-50 md:mr-50">
           Hi, I'm Matthew Thai. I used a <a href="https://www.canva.com/colors/color-wheel/" target="_blank"
           class="underline decoration-solid text-blue-500">colour wheel</a> to get the colours for the backgrounds to
           try and fit in with the "Opposites attract" theme. This portfolio website was built using HTML, TailwindCSS
