@@ -8,16 +8,16 @@ import NavBar from './UI_elements/navbar';
 function App() {
   let page;
   switch (window.location.pathname) {
-    case "/":
+    case "/About-me-website/":
       page = <Home />;
       break;
-    case "/about":
+    case "/About-me-website/about":
       page = <About />;
       break;
-    case "/hobbies":
+    case "/About-me-website/hobbies":
       page = <Hobbies />;
       break;
-    case "/experience":
+    case "/About-me-website/experience":
       page = <Experience />;
       break;
   }

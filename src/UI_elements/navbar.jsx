@@ -9,13 +9,13 @@ function NavBar() {
       </a>
       <ul class="flex flex-row">
         <li class="pl-2">
-          <a href="/about">About</a>
+          <a href="/About-me-website/about">About</a>
         </li>
         <li class="pl-2">
-          <a href="/hobbies">Hobbies</a>
+          <a href="/About-me-website/hobbies">Hobbies</a>
         </li>
         <li class="pl-2">
-          <a href="/experience">Experience</a>
+          <a href="/About-me-website/experience">Experience</a>
         </li>
       </ul>
     </nav>
