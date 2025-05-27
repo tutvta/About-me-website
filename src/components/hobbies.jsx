@@ -1,4 +1,3 @@
-import React from 'react';
 import osuProfileImg from "../assets/Screenshot 2025-05-15 194404.png"
 import deathRaceForLoveAlbumCover from "../assets/Juice_Wrld_-_Death_Race_for_Love.png" 
 import elmaAlbumCover from "../assets/Yorushika_-_Elma.png"

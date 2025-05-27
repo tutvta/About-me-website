@@ -1,4 +1,3 @@
-import React from "react";
 import homeIcon from "../assets/icons8-home.svg"
 
 function NavBar() {

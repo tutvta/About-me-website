@@ -1,5 +1,3 @@
-import React from 'react';
-
 function About() {
   return (
     <div class="p-4 h-dvh bg-linear-to-bl from-[#FF0049] to-[#00FFB6]">

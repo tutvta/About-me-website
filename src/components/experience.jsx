@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Experience() {
   return (
     <div class="p-4 h-dvh bg-linear-to-tl from-[#79D9B8] to-[#D9799A]">

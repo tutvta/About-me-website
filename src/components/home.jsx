@@ -1,4 +1,3 @@
-import React from "react";
 import githubLogo from "../assets/github-mark.svg"
 import instagramLogo from "../assets/icons8-instagram.svg"
 
